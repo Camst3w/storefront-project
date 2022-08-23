@@ -8,6 +8,7 @@ django = "*"
 django-debug-toolbar = "*"
 autopep8 = "*"
 pylint = "*"
+mysqlclient = "*"
 
 [dev-packages]
 
